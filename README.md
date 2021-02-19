@@ -1,4 +1,4 @@
-![Data DUPLEX icon](/img/datadup.ico) 
+![Data DUPLEX icon](/img/datadup_icon.png) 
 # Data DUPLEX
 Communication with data and data visualizations
 
